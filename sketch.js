@@ -1,5 +1,5 @@
 function setup() {
-createCanvas(windowWidth, windowHeight);
+  createCanvas(windowWidth, windowHeight);
   w = new Walker();
   background(255);
 }
